@@ -1,0 +1,16 @@
+{
+  "name": "haml-fucking",
+  "version": "0.0.0",
+  "description": "Jacep is a quim",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/scott-riley/haml-fucking"
+  },
+  "author": "Scott Riley <hugs@scottriley.im> (http://scottriley.im/)",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^3.8.9",
+    "gulp-ruby-haml": "0.0.3",
+    "gulp-watch": "^1.1.0"
+  }
+}
